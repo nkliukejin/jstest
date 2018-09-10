@@ -28,7 +28,17 @@ li{
     list-style: none;
 }
 
-img{
-    display: block;
-    clear: both;
+#imagegallery{
+    list-style: none;
+}
+
+
+#imagegallery li{
+    display: inline;
+}
+
+#imagegallery li a img{
+    border:0;
+    width: 10%;
+    height: 10%;
 }
