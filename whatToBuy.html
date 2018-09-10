@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <style>
+
+    </style>
+    <title>Shoping List</title>
+</head>
+<body>
+    <h1>What to Buy</h1>
+    <p title="a gentle reminder">Don't forget buy this stuff .</p>
+    <ul id="purchases">
+        <li>A tin of beans</li>
+        <li class="sale">Cheese</li>
+        <li class="sale important">
+            <!-- 打开一个页面 www.baidu.com-->
+            <a href="#"  onclick="popUp('https://www.baidu.com');return false" >go to Baidu</a>
+        </li>
+        <!--平稳退化-->
+        <li class="sale important">
+            <!-- 打开一个页面 www.baidu.com-->
+            <a href="https://www.baidu.com"  class = "popup">go to Baidu</a>
+        </li>
+    </ul>
+    <ul id="purchases2">
+        <li>A tin of beans</li>
+        <li class="sale">Cheese</li>
+        <li class="sale important">Milk</li>
+    </ul>
+    <script>
+
+        <!--检测是否支持某个函数-->
+        if (document.getElementById){
+            alert("aa");
+        }
+    </script>
+    <script type="text/javascript" src="scripts/popUp.js"></script>
+</body>
+</html>

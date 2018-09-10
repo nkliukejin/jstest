@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Image Gallery</title>
+
+    <link rel="stylesheet" href="styles/layout.css" media="screen"  />
+</head>
+<body>
+    <h1>Sanpshots</h1>
+    <ul>
+        <!--test click-->
+        <li>
+            <!--<a href="https://www.baidu.com" onclick="return true" >Click me</a>-->
+            <a href="ImageGallery.html" >fresh</a>
+
+        </li>
+
+
+        <li>
+            <a href="images/beach.jpg" title="the beach" onclick="showPic(this); return false">Beach</a>
+        </li>
+        <li>
+            <a href="images/flowers.jpg" title="the beautiful flowers" onclick="showPic(this); return false">Flowers</a>
+        </li>
+        <li>
+            <a href="images/island.jpg" title="the island" onclick="showPic(this); return false">Island</a>
+        </li>
+        <li>
+            <a href="images/tree.jpg" title="the tree" onclick="showPic(this); return false">Tree</a>
+        </li>
+    </ul>
+
+    <img id="placeholder"  src="images/placeholder.jpg" alt="my image gallery" height="400" width="300" />
+
+    <p id="titleholder" >this is title </p>
+
+
+
+    <!---show pic in placeholder-->
+    <script type="text/javascript" src="scripts/showPic.js"></script>
+    <script type="text/javascript" src="scripts/countBodyChildren.js"></script>
+
+    <script>
+        //默认执行 countBodyChildren()
+        //window.onload = countBodyChildren();
+
+        //<p> 本身的元素节点值为 null
+        //alert(titleholder.nodeValue); 返回值 为null
+
+        // alert(titleholder.childNodes[0].nodeValue);
+    </script>
+
+
+</body>
+</html>
