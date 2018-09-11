@@ -2,9 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <style>
 
-    </style>
     <title>Shoping List</title>
 </head>
 <body>
@@ -29,12 +27,22 @@
         <li class="sale important">Milk</li>
     </ul>
     <script>
-
-        <!--检测是否支持某个函数-->
-        if (document.getElementById){
-            alert("aa");
+        function highlightLinks() {
+            var links = document.getElementsByTagName("a");
+            for(var i=0 ; i<links.length ; i++){
+                links[i].onmouseover = function () {
+                    this.style.fontWeight = "bold";
+                }
+                links[i].onmouseout = function () {
+                    this.style.fontWeight = "normal";
+                }
+            }
         }
+        addLoadEvent(highlightLinks());
+
+
     </script>
     <script type="text/javascript" src="scripts/popUp.js"></script>
+    <script type="text/javascript" src="scripts/addLoadEvent.js"></script>
 </body>
 </html>
