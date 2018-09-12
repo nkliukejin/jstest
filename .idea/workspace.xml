@@ -65,66 +65,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="list.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/list.html">
+      <file leaf-file-name="htmlcanvas.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/htmlcanvas.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="444">
-              <caret line="28" column="63" lean-forward="false" selection-start-line="28" selection-start-column="63" selection-end-line="28" selection-end-column="63" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="prepareSlideshow.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scripts/prepareSlideshow.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="15" column="26" lean-forward="false" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+            <state relative-caret-position="207">
+              <caret line="9" column="117" lean-forward="false" selection-start-line="9" selection-start-column="117" selection-end-line="9" selection-end-column="117" />
               <folding>
-                <element signature="n#!!doc;n#prepareSlideshow#0" expanded="false" />
+                <element signature="n#style#0;n#img#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="moveElement.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/scripts/moveElement.js">
+      <file leaf-file-name="htmlform.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/htmlform.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="54" column="5" lean-forward="true" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
+            <state relative-caret-position="230">
+              <caret line="10" column="47" lean-forward="false" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="grayscale.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/grayscale.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1127">
+              <caret line="51" column="55" lean-forward="false" selection-start-line="51" selection-start-column="55" selection-end-line="51" selection-end-column="55" />
               <folding>
-                <element signature="n#!!doc;n#moveElement#0" expanded="false" />
+                <element signature="n#!!doc;n#convertToGS#0" expanded="false" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="animationtest.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/animationtest.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="listlayout.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/styles/listlayout.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ImageGallery.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ImageGallery.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-414">
-              <caret line="6" column="70" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="70" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -134,9 +105,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -168,6 +139,12 @@
         <option value="$PROJECT_DIR$/list.html" />
         <option value="$PROJECT_DIR$/scripts/prepareSlideshow.js" />
         <option value="$PROJECT_DIR$/scripts/moveElement.js" />
+        <option value="$PROJECT_DIR$/scripts/downtest.html" />
+        <option value="$PROJECT_DIR$/scripts/grayscale.js" />
+        <option value="$PROJECT_DIR$/scripts/htmlcanvas.html" />
+        <option value="$PROJECT_DIR$/htmlcanvas.html" />
+        <option value="$PROJECT_DIR$/audioAndvideo.html" />
+        <option value="$PROJECT_DIR$/htmlform.html" />
       </list>
     </option>
   </component>
@@ -269,7 +246,11 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/kejin/Documents/GitHub/jstest/scripts/addLoadEvent.js" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kejin\Documents\GitHub\jstest" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kejin\Documents\GitHub\jstest\scripts" />
       <recent name="C:\Users\kejin\Documents\GitHub\jstest\images" />
       <recent name="D:\jstest\images" />
     </key>
@@ -363,12 +344,12 @@
       <workItem from="1536413853204" duration="2274000" />
       <workItem from="1536478934330" duration="11009000" />
       <workItem from="1536664108759" duration="8829000" />
-      <workItem from="1536736014748" duration="9281000" />
+      <workItem from="1536736014748" duration="15057000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41043000" />
+    <option name="totallyTimeSpent" value="46819000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -802,11 +783,47 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/moveElement.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="54" column="5" lean-forward="true" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
+        <state relative-caret-position="253">
+          <caret line="53" column="21" lean-forward="true" selection-start-line="53" selection-start-column="21" selection-end-line="53" selection-end-column="21" />
           <folding>
             <element signature="n#!!doc;n#moveElement#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/modernizr-custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="2" column="100" lean-forward="false" selection-start-line="2" selection-start-column="100" selection-end-line="2" selection-end-column="100" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/grayscale.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1127">
+          <caret line="51" column="55" lean-forward="false" selection-start-line="51" selection-start-column="55" selection-end-line="51" selection-end-column="55" />
+          <folding>
+            <element signature="n#!!doc;n#convertToGS#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlcanvas.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="117" lean-forward="false" selection-start-line="9" selection-start-column="117" selection-end-line="9" selection-end-column="117" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlform.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="47" lean-forward="false" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+          <folding />
         </state>
       </provider>
     </entry>
