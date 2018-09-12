@@ -3,9 +3,9 @@
  * 绑定多个函数到 onload上
  */
 function addLoadEvent(func) {
-    var oldonload = window.onload();
+    var oldonload = window.onload;
 
-    if(typeof window.onload() != 'function'){
+    if(typeof window.onload != 'function'){
         window.onload = func;
     }else {
         window.onload = function () {
